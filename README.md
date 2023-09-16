@@ -30,6 +30,8 @@ Introductory blog post https://blog.mobyproject.org/introducing-buildkit-17e056c
 
 Join `#buildkit` channel on [Docker Community Slack](https://dockr.ly/comm-slack)
 
+[`frontend/dockerfile/docs/reference.md`](./frontend/dockerfile/docs/reference.md)
+
 > **Note**
 >
 > If you are visiting this repo for the usage of BuildKit-only Dockerfile features
